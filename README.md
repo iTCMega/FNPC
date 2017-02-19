@@ -27,8 +27,8 @@ This version follow GPL License(Donate version NOT follow it).
 If you are interested please see the submission record **ad3fbc9b09** README.md file
 
 ### Contact
-QQ:765569811,1943601164
-E-Mail:FENGberd@gmail.com
+* QQ:765569811,1943601164
+* E-Mail:FENGberd@gmail.com
 
 ### FNPC PocketMine-MP - CN
 这是最好的NPC插件与支持开发人员Pocketmine和Nukkit
@@ -60,5 +60,5 @@ git clone https://github.com/fengberd/FNPC.git
 如果你有兴趣请看提交记录** ad3fbc9b09 ** README.md文件
 
 ＃＃＃ 联系
-QQ：765569811,1943601164
-电子邮件：FENGberd@gmail.com
+* QQ：765569811,1943601164
+* 电子邮件：FENGberd@gmail.com
