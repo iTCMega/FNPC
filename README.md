@@ -1,23 +1,64 @@
-#FNPC
-一款优秀的NPC插件,适合大部分服务器使用<br />
-This is a great NPC plugin.<br />
-<br />
-使用方法请输入/fnpc help查看<br />
-Type /fnpc help to display help message.<br />
-<br />
-捐赠链接:http://pl.zxda.net/plugins/11.html<br />
-Donate link:http://pl.zxda.net/plugins/11.html<br />
-<br />
-注意,捐赠版和此版本无任何区别<br />
-Donate version is same to this version.<br />
-<br />
-开源版本遵循GPL License(捐赠版不在此范围内)<br />
-This version follow GPL License(Donate version NOT follow it).<br />
+### FNPC PocketMine-MP - EN
+This is the best NPC plugin with support developer for Pocketmine and also for Nukkit.
 
-#联系方式
-QQ:765569811,1943601164<br />
-E-Mail:FENGberd@gmail.com<br />
+### How can we use this plugin?
+* Clone this repository, or download a zip file from [GitHub](https://github.com/fengberd/FNPC/):
 
-#其他
-如果你有兴趣请看提交记录ad3fbc9b09的README.md文件
+```bash
+git clone https://github.com/fengberd/FNPC.git
+```
+* Extract/Place FNPC in your **PocketMine-MP -> plugins**
+* Start server & Enjoy.
 
+* For command type : **/fnpc help**
+
+### Where can I get the lastest .phar?
+Head over to [FNPC](https://github.com/fengberd/FNPC/)
+
+### Donate to us
+Donate link: http://pl.zxda.net/plugins/11.html
+
+### Licensing Information
+```bash
+This version follow GPL License(Donate version NOT follow it).
+```
+
+### Other
+If you are interested please see the submission record **ad3fbc9b09** README.md file
+
+### Contact
+QQ:765569811,1943601164
+E-Mail:FENGberd@gmail.com
+
+### FNPC PocketMine-MP - CN
+这是最好的NPC插件与支持开发人员Pocketmine和Nukkit
+
+
+###我们如何使用这个插件？
+*克隆此存储库，或从[GitHub]（https://github.com/fengberd/FNPC/）下载zip文件：
+
+```bash
+git clone https://github.com/fengberd/FNPC.git
+```
+*提取/放置FNPC在您的** PocketMine-MP  - >插件**
+*启动服务器和享受。
+
+*对于命令类型：** / fnpc help **
+
+###在哪里可以获得最新的.phar？
+转到[FNPC]（https://github.com/fengberd/FNPC/）
+
+###捐赠给我们
+捐赠链接：http://pl.zxda.net/plugins/11.html
+
+###许可信息
+```bash
+此版本遵循GPL许可证（捐赠版本不遵循它）。
+```
+
+###其他
+如果你有兴趣请看提交记录** ad3fbc9b09 ** README.md文件
+
+＃＃＃ 联系
+QQ：765569811,1943601164
+电子邮件：FENGberd@gmail.com
