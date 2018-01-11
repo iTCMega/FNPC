@@ -10,7 +10,11 @@ git clone https://github.com/fengberd/FNPC.git
 * Extract/Place FNPC in your **PocketMine-MP -> plugins**
 * Start server & Enjoy.
 
-* For command type : **/fnpc help**
+### Commands
+| Command | Parameters | Description |
+| :---: | :---: | :--- |
+| __/fncpc help__ | | Show fnpc commands. |
+
 
 ### Where can I get the lastest .phar?
 Head over to [FNPC](https://github.com/fengberd/FNPC/)
